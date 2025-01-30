@@ -1,4 +1,1 @@
-Instruções de Execução:
-    • Execute o projeto com dotnet run ou dentro da pasta encontrar o arquivo RotaDeViagem.exe e executar de acordo com o exemplo a seguir.
-    • Digite a rota desejada no formato origem-destino (exemplo: GRU-CDG).
-    • O sistema retornará a melhor rota com o custo mínimo.
+
