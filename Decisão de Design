@@ -1,6 +1,6 @@
 Este projeto foi estruturado para manter as boas práticas de desenvolvimento, como:
- -Separação de responsabilidades.
- -Reutilização do código.
- -Uso de injeção de dependência (RotaRepository injetado no RotaService).
- -Testes unitários para garantir que a lógica funcione como esperado.
- -Esses passos fornecem uma base robusta para a implementação da solução.
+ - Separação de responsabilidades.
+ - Reutilização do código.
+ - Uso de injeção de dependência (RotaRepository injetado no RotaService).
+ - Testes unitários para garantir que a lógica funcione como esperado.
+ - Esses passos fornecem uma base robusta para a implementação da solução.
